@@ -30,7 +30,5 @@ def print_system_uptime():
         else:
             print("Unsupported OS for uptime display.")
     except Exception as e:
-        print(f"Error retrieving system uptime: {e}")
-
-if __name__ == "__main__":
-    print_system_uptime()
+        print(f"Error ()
+()
